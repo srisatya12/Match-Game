@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+}
+.logo {
+  width: 120px;
+  height: 40px;
+}
+.logo2 {
+  width: 40%;
+}
+.para {
+  color: white;
+}

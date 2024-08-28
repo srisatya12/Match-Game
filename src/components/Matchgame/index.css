@@ -1,0 +1,17 @@
+.container2 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  height: 100vh;
+}
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.center{
+  text-align: center;
+}
